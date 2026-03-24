@@ -26,17 +26,6 @@ PSR decomposes joint motor current into physically interpretable dynamics terms 
 
 The experimental data will be made available upon reasonable request. Contact: Prof. Wei Qin (wqin@sjtu.edu.cn).
 
-## Citation
-
-```bibtex
-@article{zafar2026psr,
-  title={Cross-task anomaly detection in reconfigurable industrial robot systems based on physics-structured regression of joint motor currents},
-  author={Zafar, Sanwal Ahmad and Qin, Wei},
-  journal={Journal of Manufacturing Systems},
-  year={2026}
-}
-```
-
 ## License
 
 MIT
