@@ -1,6 +1,5 @@
 # T4_operating_points.py
 # Operating-point metrics at FPR <= 0.05 for T4, plus final 4-fold aggregation
-# of Table 3 (aggregate AUROC) and Supp S4 (per-anomaly AUROC).
 
 # %% Cell 1: Configuration
 
