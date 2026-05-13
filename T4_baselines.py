@@ -1,6 +1,5 @@
 # T4_baselines.py
 # Data-driven baselines at T4: Conv-AE, LSTM-VAE, Raw Z-Score.
-# FIXED_LEN computed over the full 4-task pool (matches manuscript).
 
 # %% Cell 1: Configuration
 
